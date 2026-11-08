@@ -1,0 +1,595 @@
+vitesse_ego_kmh;type_cible;vitesse_cible_kmh;distance_m;route;latence_s;ttc_s;distance_necessaire_m;verdict;risque
+30;voiture;0;20;sec;0.1;2.4;5.17;collision evitee;modere
+30;voiture;0;20;sec;0.3;2.4;6.84;collision evitee;modere
+30;voiture;0;20;sec;0.5;2.4;8.51;collision evitee;modere
+30;voiture;0;20;mouille;0.1;2.4;7.78;collision evitee;modere
+30;voiture;0;20;mouille;0.3;2.4;9.44;collision evitee;modere
+30;voiture;0;20;mouille;0.5;2.4;11.11;collision evitee;modere
+30;voiture;0;20;verglas;0.1;2.4;18.19;collision evitee;modere
+30;voiture;0;20;verglas;0.3;2.4;19.86;collision evitee;modere
+30;voiture;0;20;verglas;0.5;2.4;21.53;collision;modere
+30;voiture;0;40;sec;0.1;4.8;5.17;collision evitee;modere
+30;voiture;0;40;sec;0.3;4.8;6.84;collision evitee;modere
+30;voiture;0;40;sec;0.5;4.8;8.51;collision evitee;modere
+30;voiture;0;40;mouille;0.1;4.8;7.78;collision evitee;modere
+30;voiture;0;40;mouille;0.3;4.8;9.44;collision evitee;modere
+30;voiture;0;40;mouille;0.5;4.8;11.11;collision evitee;modere
+30;voiture;0;40;verglas;0.1;4.8;18.19;collision evitee;modere
+30;voiture;0;40;verglas;0.3;4.8;19.86;collision evitee;modere
+30;voiture;0;40;verglas;0.5;4.8;21.53;collision evitee;modere
+30;voiture;0;60;sec;0.1;7.2;5.17;collision evitee;modere
+30;voiture;0;60;sec;0.3;7.2;6.84;collision evitee;modere
+30;voiture;0;60;sec;0.5;7.2;8.51;collision evitee;modere
+30;voiture;0;60;mouille;0.1;7.2;7.78;collision evitee;modere
+30;voiture;0;60;mouille;0.3;7.2;9.44;collision evitee;modere
+30;voiture;0;60;mouille;0.5;7.2;11.11;collision evitee;modere
+30;voiture;0;60;verglas;0.1;7.2;18.19;collision evitee;modere
+30;voiture;0;60;verglas;0.3;7.2;19.86;collision evitee;modere
+30;voiture;0;60;verglas;0.5;7.2;21.53;collision evitee;modere
+30;voiture;10;20;sec;0.1;3.6;2.48;collision evitee;modere
+30;voiture;10;20;sec;0.3;3.6;3.6;collision evitee;modere
+30;voiture;10;20;sec;0.5;3.6;4.71;collision evitee;modere
+30;voiture;10;20;mouille;0.1;3.6;3.64;collision evitee;modere
+30;voiture;10;20;mouille;0.3;3.6;4.75;collision evitee;modere
+30;voiture;10;20;mouille;0.5;3.6;5.86;collision evitee;modere
+30;voiture;10;20;verglas;0.1;3.6;8.27;collision evitee;modere
+30;voiture;10;20;verglas;0.3;3.6;9.38;collision evitee;modere
+30;voiture;10;20;verglas;0.5;3.6;10.49;collision evitee;modere
+30;voiture;10;40;sec;0.1;7.2;2.48;collision evitee;modere
+30;voiture;10;40;sec;0.3;7.2;3.6;collision evitee;modere
+30;voiture;10;40;sec;0.5;7.2;4.71;collision evitee;modere
+30;voiture;10;40;mouille;0.1;7.2;3.64;collision evitee;modere
+30;voiture;10;40;mouille;0.3;7.2;4.75;collision evitee;modere
+30;voiture;10;40;mouille;0.5;7.2;5.86;collision evitee;modere
+30;voiture;10;40;verglas;0.1;7.2;8.27;collision evitee;modere
+30;voiture;10;40;verglas;0.3;7.2;9.38;collision evitee;modere
+30;voiture;10;40;verglas;0.5;7.2;10.49;collision evitee;modere
+30;voiture;10;60;sec;0.1;10.8;2.48;collision evitee;modere
+30;voiture;10;60;sec;0.3;10.8;3.6;collision evitee;modere
+30;voiture;10;60;sec;0.5;10.8;4.71;collision evitee;modere
+30;voiture;10;60;mouille;0.1;10.8;3.64;collision evitee;modere
+30;voiture;10;60;mouille;0.3;10.8;4.75;collision evitee;modere
+30;voiture;10;60;mouille;0.5;10.8;5.86;collision evitee;modere
+30;voiture;10;60;verglas;0.1;10.8;8.27;collision evitee;modere
+30;voiture;10;60;verglas;0.3;10.8;9.38;collision evitee;modere
+30;voiture;10;60;verglas;0.5;10.8;10.49;collision evitee;modere
+30;cycliste;0;20;sec;0.1;2.4;5.17;collision evitee;eleve
+30;cycliste;0;20;sec;0.3;2.4;6.84;collision evitee;eleve
+30;cycliste;0;20;sec;0.5;2.4;8.51;collision evitee;eleve
+30;cycliste;0;20;mouille;0.1;2.4;7.78;collision evitee;eleve
+30;cycliste;0;20;mouille;0.3;2.4;9.44;collision evitee;eleve
+30;cycliste;0;20;mouille;0.5;2.4;11.11;collision evitee;eleve
+30;cycliste;0;20;verglas;0.1;2.4;18.19;collision evitee;eleve
+30;cycliste;0;20;verglas;0.3;2.4;19.86;collision evitee;eleve
+30;cycliste;0;20;verglas;0.5;2.4;21.53;collision;eleve
+30;cycliste;0;40;sec;0.1;4.8;5.17;collision evitee;modere
+30;cycliste;0;40;sec;0.3;4.8;6.84;collision evitee;modere
+30;cycliste;0;40;sec;0.5;4.8;8.51;collision evitee;modere
+30;cycliste;0;40;mouille;0.1;4.8;7.78;collision evitee;modere
+30;cycliste;0;40;mouille;0.3;4.8;9.44;collision evitee;modere
+30;cycliste;0;40;mouille;0.5;4.8;11.11;collision evitee;modere
+30;cycliste;0;40;verglas;0.1;4.8;18.19;collision evitee;modere
+30;cycliste;0;40;verglas;0.3;4.8;19.86;collision evitee;modere
+30;cycliste;0;40;verglas;0.5;4.8;21.53;collision evitee;modere
+30;cycliste;0;60;sec;0.1;7.2;5.17;collision evitee;modere
+30;cycliste;0;60;sec;0.3;7.2;6.84;collision evitee;modere
+30;cycliste;0;60;sec;0.5;7.2;8.51;collision evitee;modere
+30;cycliste;0;60;mouille;0.1;7.2;7.78;collision evitee;modere
+30;cycliste;0;60;mouille;0.3;7.2;9.44;collision evitee;modere
+30;cycliste;0;60;mouille;0.5;7.2;11.11;collision evitee;modere
+30;cycliste;0;60;verglas;0.1;7.2;18.19;collision evitee;modere
+30;cycliste;0;60;verglas;0.3;7.2;19.86;collision evitee;modere
+30;cycliste;0;60;verglas;0.5;7.2;21.53;collision evitee;modere
+30;cycliste;10;20;sec;0.1;3.6;2.48;collision evitee;modere
+30;cycliste;10;20;sec;0.3;3.6;3.6;collision evitee;modere
+30;cycliste;10;20;sec;0.5;3.6;4.71;collision evitee;modere
+30;cycliste;10;20;mouille;0.1;3.6;3.64;collision evitee;modere
+30;cycliste;10;20;mouille;0.3;3.6;4.75;collision evitee;modere
+30;cycliste;10;20;mouille;0.5;3.6;5.86;collision evitee;modere
+30;cycliste;10;20;verglas;0.1;3.6;8.27;collision evitee;modere
+30;cycliste;10;20;verglas;0.3;3.6;9.38;collision evitee;modere
+30;cycliste;10;20;verglas;0.5;3.6;10.49;collision evitee;modere
+30;cycliste;10;40;sec;0.1;7.2;2.48;collision evitee;modere
+30;cycliste;10;40;sec;0.3;7.2;3.6;collision evitee;modere
+30;cycliste;10;40;sec;0.5;7.2;4.71;collision evitee;modere
+30;cycliste;10;40;mouille;0.1;7.2;3.64;collision evitee;modere
+30;cycliste;10;40;mouille;0.3;7.2;4.75;collision evitee;modere
+30;cycliste;10;40;mouille;0.5;7.2;5.86;collision evitee;modere
+30;cycliste;10;40;verglas;0.1;7.2;8.27;collision evitee;modere
+30;cycliste;10;40;verglas;0.3;7.2;9.38;collision evitee;modere
+30;cycliste;10;40;verglas;0.5;7.2;10.49;collision evitee;modere
+30;cycliste;10;60;sec;0.1;10.8;2.48;collision evitee;modere
+30;cycliste;10;60;sec;0.3;10.8;3.6;collision evitee;modere
+30;cycliste;10;60;sec;0.5;10.8;4.71;collision evitee;modere
+30;cycliste;10;60;mouille;0.1;10.8;3.64;collision evitee;modere
+30;cycliste;10;60;mouille;0.3;10.8;4.75;collision evitee;modere
+30;cycliste;10;60;mouille;0.5;10.8;5.86;collision evitee;modere
+30;cycliste;10;60;verglas;0.1;10.8;8.27;collision evitee;modere
+30;cycliste;10;60;verglas;0.3;10.8;9.38;collision evitee;modere
+30;cycliste;10;60;verglas;0.5;10.8;10.49;collision evitee;modere
+30;pieton;0;20;sec;0.1;2.4;5.17;collision evitee;eleve
+30;pieton;0;20;sec;0.3;2.4;6.84;collision evitee;eleve
+30;pieton;0;20;sec;0.5;2.4;8.51;collision evitee;eleve
+30;pieton;0;20;mouille;0.1;2.4;7.78;collision evitee;eleve
+30;pieton;0;20;mouille;0.3;2.4;9.44;collision evitee;eleve
+30;pieton;0;20;mouille;0.5;2.4;11.11;collision evitee;eleve
+30;pieton;0;20;verglas;0.1;2.4;18.19;collision evitee;eleve
+30;pieton;0;20;verglas;0.3;2.4;19.86;collision evitee;eleve
+30;pieton;0;20;verglas;0.5;2.4;21.53;collision;eleve
+30;pieton;0;40;sec;0.1;4.8;5.17;collision evitee;modere
+30;pieton;0;40;sec;0.3;4.8;6.84;collision evitee;modere
+30;pieton;0;40;sec;0.5;4.8;8.51;collision evitee;modere
+30;pieton;0;40;mouille;0.1;4.8;7.78;collision evitee;modere
+30;pieton;0;40;mouille;0.3;4.8;9.44;collision evitee;modere
+30;pieton;0;40;mouille;0.5;4.8;11.11;collision evitee;modere
+30;pieton;0;40;verglas;0.1;4.8;18.19;collision evitee;modere
+30;pieton;0;40;verglas;0.3;4.8;19.86;collision evitee;modere
+30;pieton;0;40;verglas;0.5;4.8;21.53;collision evitee;modere
+30;pieton;0;60;sec;0.1;7.2;5.17;collision evitee;modere
+30;pieton;0;60;sec;0.3;7.2;6.84;collision evitee;modere
+30;pieton;0;60;sec;0.5;7.2;8.51;collision evitee;modere
+30;pieton;0;60;mouille;0.1;7.2;7.78;collision evitee;modere
+30;pieton;0;60;mouille;0.3;7.2;9.44;collision evitee;modere
+30;pieton;0;60;mouille;0.5;7.2;11.11;collision evitee;modere
+30;pieton;0;60;verglas;0.1;7.2;18.19;collision evitee;modere
+30;pieton;0;60;verglas;0.3;7.2;19.86;collision evitee;modere
+30;pieton;0;60;verglas;0.5;7.2;21.53;collision evitee;modere
+30;pieton;10;20;sec;0.1;3.6;2.48;collision evitee;modere
+30;pieton;10;20;sec;0.3;3.6;3.6;collision evitee;modere
+30;pieton;10;20;sec;0.5;3.6;4.71;collision evitee;modere
+30;pieton;10;20;mouille;0.1;3.6;3.64;collision evitee;modere
+30;pieton;10;20;mouille;0.3;3.6;4.75;collision evitee;modere
+30;pieton;10;20;mouille;0.5;3.6;5.86;collision evitee;modere
+30;pieton;10;20;verglas;0.1;3.6;8.27;collision evitee;modere
+30;pieton;10;20;verglas;0.3;3.6;9.38;collision evitee;modere
+30;pieton;10;20;verglas;0.5;3.6;10.49;collision evitee;modere
+30;pieton;10;40;sec;0.1;7.2;2.48;collision evitee;modere
+30;pieton;10;40;sec;0.3;7.2;3.6;collision evitee;modere
+30;pieton;10;40;sec;0.5;7.2;4.71;collision evitee;modere
+30;pieton;10;40;mouille;0.1;7.2;3.64;collision evitee;modere
+30;pieton;10;40;mouille;0.3;7.2;4.75;collision evitee;modere
+30;pieton;10;40;mouille;0.5;7.2;5.86;collision evitee;modere
+30;pieton;10;40;verglas;0.1;7.2;8.27;collision evitee;modere
+30;pieton;10;40;verglas;0.3;7.2;9.38;collision evitee;modere
+30;pieton;10;40;verglas;0.5;7.2;10.49;collision evitee;modere
+30;pieton;10;60;sec;0.1;10.8;2.48;collision evitee;modere
+30;pieton;10;60;sec;0.3;10.8;3.6;collision evitee;modere
+30;pieton;10;60;sec;0.5;10.8;4.71;collision evitee;modere
+30;pieton;10;60;mouille;0.1;10.8;3.64;collision evitee;modere
+30;pieton;10;60;mouille;0.3;10.8;4.75;collision evitee;modere
+30;pieton;10;60;mouille;0.5;10.8;5.86;collision evitee;modere
+30;pieton;10;60;verglas;0.1;10.8;8.27;collision evitee;modere
+30;pieton;10;60;verglas;0.3;10.8;9.38;collision evitee;modere
+30;pieton;10;60;verglas;0.5;10.8;10.49;collision evitee;modere
+50;voiture;0;20;sec;0.1;1.44;13.45;collision evitee;eleve
+50;voiture;0;20;sec;0.3;1.44;16.22;collision evitee;eleve
+50;voiture;0;20;sec;0.5;1.44;19.0;collision evitee;eleve
+50;voiture;0;20;mouille;0.1;1.44;20.68;collision;eleve
+50;voiture;0;20;mouille;0.3;1.44;23.46;collision;eleve
+50;voiture;0;20;mouille;0.5;1.44;26.23;collision;eleve
+50;voiture;0;20;verglas;0.1;1.44;49.61;collision;eleve
+50;voiture;0;20;verglas;0.3;1.44;52.39;collision;eleve
+50;voiture;0;20;verglas;0.5;1.44;55.17;collision;eleve
+50;voiture;0;40;sec;0.1;2.88;13.45;collision evitee;modere
+50;voiture;0;40;sec;0.3;2.88;16.22;collision evitee;modere
+50;voiture;0;40;sec;0.5;2.88;19.0;collision evitee;modere
+50;voiture;0;40;mouille;0.1;2.88;20.68;collision evitee;modere
+50;voiture;0;40;mouille;0.3;2.88;23.46;collision evitee;modere
+50;voiture;0;40;mouille;0.5;2.88;26.23;collision evitee;modere
+50;voiture;0;40;verglas;0.1;2.88;49.61;collision;modere
+50;voiture;0;40;verglas;0.3;2.88;52.39;collision;modere
+50;voiture;0;40;verglas;0.5;2.88;55.17;collision;modere
+50;voiture;0;60;sec;0.1;4.32;13.45;collision evitee;modere
+50;voiture;0;60;sec;0.3;4.32;16.22;collision evitee;modere
+50;voiture;0;60;sec;0.5;4.32;19.0;collision evitee;modere
+50;voiture;0;60;mouille;0.1;4.32;20.68;collision evitee;modere
+50;voiture;0;60;mouille;0.3;4.32;23.46;collision evitee;modere
+50;voiture;0;60;mouille;0.5;4.32;26.23;collision evitee;modere
+50;voiture;0;60;verglas;0.1;4.32;49.61;collision evitee;modere
+50;voiture;0;60;verglas;0.3;4.32;52.39;collision evitee;modere
+50;voiture;0;60;verglas;0.5;4.32;55.17;collision evitee;modere
+50;voiture;10;20;sec;0.1;1.8;8.83;collision evitee;eleve
+50;voiture;10;20;sec;0.3;1.8;11.05;collision evitee;eleve
+50;voiture;10;20;sec;0.5;1.8;13.27;collision evitee;eleve
+50;voiture;10;20;mouille;0.1;1.8;13.46;collision evitee;eleve
+50;voiture;10;20;mouille;0.3;1.8;15.68;collision evitee;eleve
+50;voiture;10;20;mouille;0.5;1.8;17.9;collision evitee;eleve
+50;voiture;10;20;verglas;0.1;1.8;31.98;collision;eleve
+50;voiture;10;20;verglas;0.3;1.8;34.2;collision;eleve
+50;voiture;10;20;verglas;0.5;1.8;36.42;collision;eleve
+50;voiture;10;40;sec;0.1;3.6;8.83;collision evitee;modere
+50;voiture;10;40;sec;0.3;3.6;11.05;collision evitee;modere
+50;voiture;10;40;sec;0.5;3.6;13.27;collision evitee;modere
+50;voiture;10;40;mouille;0.1;3.6;13.46;collision evitee;modere
+50;voiture;10;40;mouille;0.3;3.6;15.68;collision evitee;modere
+50;voiture;10;40;mouille;0.5;3.6;17.9;collision evitee;modere
+50;voiture;10;40;verglas;0.1;3.6;31.98;collision evitee;modere
+50;voiture;10;40;verglas;0.3;3.6;34.2;collision evitee;modere
+50;voiture;10;40;verglas;0.5;3.6;36.42;collision evitee;modere
+50;voiture;10;60;sec;0.1;5.4;8.83;collision evitee;modere
+50;voiture;10;60;sec;0.3;5.4;11.05;collision evitee;modere
+50;voiture;10;60;sec;0.5;5.4;13.27;collision evitee;modere
+50;voiture;10;60;mouille;0.1;5.4;13.46;collision evitee;modere
+50;voiture;10;60;mouille;0.3;5.4;15.68;collision evitee;modere
+50;voiture;10;60;mouille;0.5;5.4;17.9;collision evitee;modere
+50;voiture;10;60;verglas;0.1;5.4;31.98;collision evitee;modere
+50;voiture;10;60;verglas;0.3;5.4;34.2;collision evitee;modere
+50;voiture;10;60;verglas;0.5;5.4;36.42;collision evitee;modere
+50;voiture;30;20;sec;0.1;3.6;2.48;collision evitee;modere
+50;voiture;30;20;sec;0.3;3.6;3.6;collision evitee;modere
+50;voiture;30;20;sec;0.5;3.6;4.71;collision evitee;modere
+50;voiture;30;20;mouille;0.1;3.6;3.64;collision evitee;modere
+50;voiture;30;20;mouille;0.3;3.6;4.75;collision evitee;modere
+50;voiture;30;20;mouille;0.5;3.6;5.86;collision evitee;modere
+50;voiture;30;20;verglas;0.1;3.6;8.27;collision evitee;modere
+50;voiture;30;20;verglas;0.3;3.6;9.38;collision evitee;modere
+50;voiture;30;20;verglas;0.5;3.6;10.49;collision evitee;modere
+50;voiture;30;40;sec;0.1;7.2;2.48;collision evitee;modere
+50;voiture;30;40;sec;0.3;7.2;3.6;collision evitee;modere
+50;voiture;30;40;sec;0.5;7.2;4.71;collision evitee;modere
+50;voiture;30;40;mouille;0.1;7.2;3.64;collision evitee;modere
+50;voiture;30;40;mouille;0.3;7.2;4.75;collision evitee;modere
+50;voiture;30;40;mouille;0.5;7.2;5.86;collision evitee;modere
+50;voiture;30;40;verglas;0.1;7.2;8.27;collision evitee;modere
+50;voiture;30;40;verglas;0.3;7.2;9.38;collision evitee;modere
+50;voiture;30;40;verglas;0.5;7.2;10.49;collision evitee;modere
+50;voiture;30;60;sec;0.1;10.8;2.48;collision evitee;modere
+50;voiture;30;60;sec;0.3;10.8;3.6;collision evitee;modere
+50;voiture;30;60;sec;0.5;10.8;4.71;collision evitee;modere
+50;voiture;30;60;mouille;0.1;10.8;3.64;collision evitee;modere
+50;voiture;30;60;mouille;0.3;10.8;4.75;collision evitee;modere
+50;voiture;30;60;mouille;0.5;10.8;5.86;collision evitee;modere
+50;voiture;30;60;verglas;0.1;10.8;8.27;collision evitee;modere
+50;voiture;30;60;verglas;0.3;10.8;9.38;collision evitee;modere
+50;voiture;30;60;verglas;0.5;10.8;10.49;collision evitee;modere
+50;cycliste;0;20;sec;0.1;1.44;13.45;collision evitee;critique
+50;cycliste;0;20;sec;0.3;1.44;16.22;collision evitee;critique
+50;cycliste;0;20;sec;0.5;1.44;19.0;collision evitee;critique
+50;cycliste;0;20;mouille;0.1;1.44;20.68;collision;critique
+50;cycliste;0;20;mouille;0.3;1.44;23.46;collision;critique
+50;cycliste;0;20;mouille;0.5;1.44;26.23;collision;critique
+50;cycliste;0;20;verglas;0.1;1.44;49.61;collision;critique
+50;cycliste;0;20;verglas;0.3;1.44;52.39;collision;critique
+50;cycliste;0;20;verglas;0.5;1.44;55.17;collision;critique
+50;cycliste;0;40;sec;0.1;2.88;13.45;collision evitee;eleve
+50;cycliste;0;40;sec;0.3;2.88;16.22;collision evitee;eleve
+50;cycliste;0;40;sec;0.5;2.88;19.0;collision evitee;eleve
+50;cycliste;0;40;mouille;0.1;2.88;20.68;collision evitee;eleve
+50;cycliste;0;40;mouille;0.3;2.88;23.46;collision evitee;eleve
+50;cycliste;0;40;mouille;0.5;2.88;26.23;collision evitee;eleve
+50;cycliste;0;40;verglas;0.1;2.88;49.61;collision;eleve
+50;cycliste;0;40;verglas;0.3;2.88;52.39;collision;eleve
+50;cycliste;0;40;verglas;0.5;2.88;55.17;collision;eleve
+50;cycliste;0;60;sec;0.1;4.32;13.45;collision evitee;modere
+50;cycliste;0;60;sec;0.3;4.32;16.22;collision evitee;modere
+50;cycliste;0;60;sec;0.5;4.32;19.0;collision evitee;modere
+50;cycliste;0;60;mouille;0.1;4.32;20.68;collision evitee;modere
+50;cycliste;0;60;mouille;0.3;4.32;23.46;collision evitee;modere
+50;cycliste;0;60;mouille;0.5;4.32;26.23;collision evitee;modere
+50;cycliste;0;60;verglas;0.1;4.32;49.61;collision evitee;modere
+50;cycliste;0;60;verglas;0.3;4.32;52.39;collision evitee;modere
+50;cycliste;0;60;verglas;0.5;4.32;55.17;collision evitee;modere
+50;cycliste;10;20;sec;0.1;1.8;8.83;collision evitee;eleve
+50;cycliste;10;20;sec;0.3;1.8;11.05;collision evitee;eleve
+50;cycliste;10;20;sec;0.5;1.8;13.27;collision evitee;eleve
+50;cycliste;10;20;mouille;0.1;1.8;13.46;collision evitee;eleve
+50;cycliste;10;20;mouille;0.3;1.8;15.68;collision evitee;eleve
+50;cycliste;10;20;mouille;0.5;1.8;17.9;collision evitee;eleve
+50;cycliste;10;20;verglas;0.1;1.8;31.98;collision;eleve
+50;cycliste;10;20;verglas;0.3;1.8;34.2;collision;eleve
+50;cycliste;10;20;verglas;0.5;1.8;36.42;collision;eleve
+50;cycliste;10;40;sec;0.1;3.6;8.83;collision evitee;modere
+50;cycliste;10;40;sec;0.3;3.6;11.05;collision evitee;modere
+50;cycliste;10;40;sec;0.5;3.6;13.27;collision evitee;modere
+50;cycliste;10;40;mouille;0.1;3.6;13.46;collision evitee;modere
+50;cycliste;10;40;mouille;0.3;3.6;15.68;collision evitee;modere
+50;cycliste;10;40;mouille;0.5;3.6;17.9;collision evitee;modere
+50;cycliste;10;40;verglas;0.1;3.6;31.98;collision evitee;modere
+50;cycliste;10;40;verglas;0.3;3.6;34.2;collision evitee;modere
+50;cycliste;10;40;verglas;0.5;3.6;36.42;collision evitee;modere
+50;cycliste;10;60;sec;0.1;5.4;8.83;collision evitee;modere
+50;cycliste;10;60;sec;0.3;5.4;11.05;collision evitee;modere
+50;cycliste;10;60;sec;0.5;5.4;13.27;collision evitee;modere
+50;cycliste;10;60;mouille;0.1;5.4;13.46;collision evitee;modere
+50;cycliste;10;60;mouille;0.3;5.4;15.68;collision evitee;modere
+50;cycliste;10;60;mouille;0.5;5.4;17.9;collision evitee;modere
+50;cycliste;10;60;verglas;0.1;5.4;31.98;collision evitee;modere
+50;cycliste;10;60;verglas;0.3;5.4;34.2;collision evitee;modere
+50;cycliste;10;60;verglas;0.5;5.4;36.42;collision evitee;modere
+50;cycliste;30;20;sec;0.1;3.6;2.48;collision evitee;modere
+50;cycliste;30;20;sec;0.3;3.6;3.6;collision evitee;modere
+50;cycliste;30;20;sec;0.5;3.6;4.71;collision evitee;modere
+50;cycliste;30;20;mouille;0.1;3.6;3.64;collision evitee;modere
+50;cycliste;30;20;mouille;0.3;3.6;4.75;collision evitee;modere
+50;cycliste;30;20;mouille;0.5;3.6;5.86;collision evitee;modere
+50;cycliste;30;20;verglas;0.1;3.6;8.27;collision evitee;modere
+50;cycliste;30;20;verglas;0.3;3.6;9.38;collision evitee;modere
+50;cycliste;30;20;verglas;0.5;3.6;10.49;collision evitee;modere
+50;cycliste;30;40;sec;0.1;7.2;2.48;collision evitee;modere
+50;cycliste;30;40;sec;0.3;7.2;3.6;collision evitee;modere
+50;cycliste;30;40;sec;0.5;7.2;4.71;collision evitee;modere
+50;cycliste;30;40;mouille;0.1;7.2;3.64;collision evitee;modere
+50;cycliste;30;40;mouille;0.3;7.2;4.75;collision evitee;modere
+50;cycliste;30;40;mouille;0.5;7.2;5.86;collision evitee;modere
+50;cycliste;30;40;verglas;0.1;7.2;8.27;collision evitee;modere
+50;cycliste;30;40;verglas;0.3;7.2;9.38;collision evitee;modere
+50;cycliste;30;40;verglas;0.5;7.2;10.49;collision evitee;modere
+50;cycliste;30;60;sec;0.1;10.8;2.48;collision evitee;modere
+50;cycliste;30;60;sec;0.3;10.8;3.6;collision evitee;modere
+50;cycliste;30;60;sec;0.5;10.8;4.71;collision evitee;modere
+50;cycliste;30;60;mouille;0.1;10.8;3.64;collision evitee;modere
+50;cycliste;30;60;mouille;0.3;10.8;4.75;collision evitee;modere
+50;cycliste;30;60;mouille;0.5;10.8;5.86;collision evitee;modere
+50;cycliste;30;60;verglas;0.1;10.8;8.27;collision evitee;modere
+50;cycliste;30;60;verglas;0.3;10.8;9.38;collision evitee;modere
+50;cycliste;30;60;verglas;0.5;10.8;10.49;collision evitee;modere
+50;pieton;0;20;sec;0.1;1.44;13.45;collision evitee;critique
+50;pieton;0;20;sec;0.3;1.44;16.22;collision evitee;critique
+50;pieton;0;20;sec;0.5;1.44;19.0;collision evitee;critique
+50;pieton;0;20;mouille;0.1;1.44;20.68;collision;critique
+50;pieton;0;20;mouille;0.3;1.44;23.46;collision;critique
+50;pieton;0;20;mouille;0.5;1.44;26.23;collision;critique
+50;pieton;0;20;verglas;0.1;1.44;49.61;collision;critique
+50;pieton;0;20;verglas;0.3;1.44;52.39;collision;critique
+50;pieton;0;20;verglas;0.5;1.44;55.17;collision;critique
+50;pieton;0;40;sec;0.1;2.88;13.45;collision evitee;eleve
+50;pieton;0;40;sec;0.3;2.88;16.22;collision evitee;eleve
+50;pieton;0;40;sec;0.5;2.88;19.0;collision evitee;eleve
+50;pieton;0;40;mouille;0.1;2.88;20.68;collision evitee;eleve
+50;pieton;0;40;mouille;0.3;2.88;23.46;collision evitee;eleve
+50;pieton;0;40;mouille;0.5;2.88;26.23;collision evitee;eleve
+50;pieton;0;40;verglas;0.1;2.88;49.61;collision;eleve
+50;pieton;0;40;verglas;0.3;2.88;52.39;collision;eleve
+50;pieton;0;40;verglas;0.5;2.88;55.17;collision;eleve
+50;pieton;0;60;sec;0.1;4.32;13.45;collision evitee;modere
+50;pieton;0;60;sec;0.3;4.32;16.22;collision evitee;modere
+50;pieton;0;60;sec;0.5;4.32;19.0;collision evitee;modere
+50;pieton;0;60;mouille;0.1;4.32;20.68;collision evitee;modere
+50;pieton;0;60;mouille;0.3;4.32;23.46;collision evitee;modere
+50;pieton;0;60;mouille;0.5;4.32;26.23;collision evitee;modere
+50;pieton;0;60;verglas;0.1;4.32;49.61;collision evitee;modere
+50;pieton;0;60;verglas;0.3;4.32;52.39;collision evitee;modere
+50;pieton;0;60;verglas;0.5;4.32;55.17;collision evitee;modere
+50;pieton;10;20;sec;0.1;1.8;8.83;collision evitee;eleve
+50;pieton;10;20;sec;0.3;1.8;11.05;collision evitee;eleve
+50;pieton;10;20;sec;0.5;1.8;13.27;collision evitee;eleve
+50;pieton;10;20;mouille;0.1;1.8;13.46;collision evitee;eleve
+50;pieton;10;20;mouille;0.3;1.8;15.68;collision evitee;eleve
+50;pieton;10;20;mouille;0.5;1.8;17.9;collision evitee;eleve
+50;pieton;10;20;verglas;0.1;1.8;31.98;collision;eleve
+50;pieton;10;20;verglas;0.3;1.8;34.2;collision;eleve
+50;pieton;10;20;verglas;0.5;1.8;36.42;collision;eleve
+50;pieton;10;40;sec;0.1;3.6;8.83;collision evitee;modere
+50;pieton;10;40;sec;0.3;3.6;11.05;collision evitee;modere
+50;pieton;10;40;sec;0.5;3.6;13.27;collision evitee;modere
+50;pieton;10;40;mouille;0.1;3.6;13.46;collision evitee;modere
+50;pieton;10;40;mouille;0.3;3.6;15.68;collision evitee;modere
+50;pieton;10;40;mouille;0.5;3.6;17.9;collision evitee;modere
+50;pieton;10;40;verglas;0.1;3.6;31.98;collision evitee;modere
+50;pieton;10;40;verglas;0.3;3.6;34.2;collision evitee;modere
+50;pieton;10;40;verglas;0.5;3.6;36.42;collision evitee;modere
+50;pieton;10;60;sec;0.1;5.4;8.83;collision evitee;modere
+50;pieton;10;60;sec;0.3;5.4;11.05;collision evitee;modere
+50;pieton;10;60;sec;0.5;5.4;13.27;collision evitee;modere
+50;pieton;10;60;mouille;0.1;5.4;13.46;collision evitee;modere
+50;pieton;10;60;mouille;0.3;5.4;15.68;collision evitee;modere
+50;pieton;10;60;mouille;0.5;5.4;17.9;collision evitee;modere
+50;pieton;10;60;verglas;0.1;5.4;31.98;collision evitee;modere
+50;pieton;10;60;verglas;0.3;5.4;34.2;collision evitee;modere
+50;pieton;10;60;verglas;0.5;5.4;36.42;collision evitee;modere
+80;voiture;0;20;sec;0.1;0.9;33.09;collision;critique
+80;voiture;0;20;sec;0.3;0.9;37.53;collision;critique
+80;voiture;0;20;sec;0.5;0.9;41.98;collision;critique
+80;voiture;0;20;mouille;0.1;0.9;51.6;collision;critique
+80;voiture;0;20;mouille;0.3;0.9;56.05;collision;critique
+80;voiture;0;20;mouille;0.5;0.9;60.49;collision;critique
+80;voiture;0;20;verglas;0.1;0.9;125.68;collision;critique
+80;voiture;0;20;verglas;0.3;0.9;130.12;collision;critique
+80;voiture;0;20;verglas;0.5;0.9;134.57;collision;critique
+80;voiture;0;40;sec;0.1;1.8;33.09;collision evitee;eleve
+80;voiture;0;40;sec;0.3;1.8;37.53;collision evitee;eleve
+80;voiture;0;40;sec;0.5;1.8;41.98;collision;eleve
+80;voiture;0;40;mouille;0.1;1.8;51.6;collision;eleve
+80;voiture;0;40;mouille;0.3;1.8;56.05;collision;eleve
+80;voiture;0;40;mouille;0.5;1.8;60.49;collision;eleve
+80;voiture;0;40;verglas;0.1;1.8;125.68;collision;eleve
+80;voiture;0;40;verglas;0.3;1.8;130.12;collision;eleve
+80;voiture;0;40;verglas;0.5;1.8;134.57;collision;eleve
+80;voiture;0;60;sec;0.1;2.7;33.09;collision evitee;modere
+80;voiture;0;60;sec;0.3;2.7;37.53;collision evitee;modere
+80;voiture;0;60;sec;0.5;2.7;41.98;collision evitee;modere
+80;voiture;0;60;mouille;0.1;2.7;51.6;collision evitee;modere
+80;voiture;0;60;mouille;0.3;2.7;56.05;collision evitee;modere
+80;voiture;0;60;mouille;0.5;2.7;60.49;collision;modere
+80;voiture;0;60;verglas;0.1;2.7;125.68;collision;modere
+80;voiture;0;60;verglas;0.3;2.7;130.12;collision;modere
+80;voiture;0;60;verglas;0.5;2.7;134.57;collision;modere
+80;voiture;10;20;sec;0.1;1.03;25.57;collision;eleve
+80;voiture;10;20;sec;0.3;1.03;29.46;collision;eleve
+80;voiture;10;20;sec;0.5;1.03;33.35;collision;eleve
+80;voiture;10;20;mouille;0.1;1.03;39.75;collision;eleve
+80;voiture;10;20;mouille;0.3;1.03;43.64;collision;eleve
+80;voiture;10;20;mouille;0.5;1.03;47.53;collision;eleve
+80;voiture;10;20;verglas;0.1;1.03;96.47;collision;eleve
+80;voiture;10;20;verglas;0.3;1.03;100.35;collision;eleve
+80;voiture;10;20;verglas;0.5;1.03;104.24;collision;eleve
+80;voiture;10;40;sec;0.1;2.06;25.57;collision evitee;modere
+80;voiture;10;40;sec;0.3;2.06;29.46;collision evitee;modere
+80;voiture;10;40;sec;0.5;2.06;33.35;collision evitee;modere
+80;voiture;10;40;mouille;0.1;2.06;39.75;collision evitee;modere
+80;voiture;10;40;mouille;0.3;2.06;43.64;collision;modere
+80;voiture;10;40;mouille;0.5;2.06;47.53;collision;modere
+80;voiture;10;40;verglas;0.1;2.06;96.47;collision;modere
+80;voiture;10;40;verglas;0.3;2.06;100.35;collision;modere
+80;voiture;10;40;verglas;0.5;2.06;104.24;collision;modere
+80;voiture;10;60;sec;0.1;3.09;25.57;collision evitee;modere
+80;voiture;10;60;sec;0.3;3.09;29.46;collision evitee;modere
+80;voiture;10;60;sec;0.5;3.09;33.35;collision evitee;modere
+80;voiture;10;60;mouille;0.1;3.09;39.75;collision evitee;modere
+80;voiture;10;60;mouille;0.3;3.09;43.64;collision evitee;modere
+80;voiture;10;60;mouille;0.5;3.09;47.53;collision evitee;modere
+80;voiture;10;60;verglas;0.1;3.09;96.47;collision;modere
+80;voiture;10;60;verglas;0.3;3.09;100.35;collision;modere
+80;voiture;10;60;verglas;0.5;3.09;104.24;collision;modere
+80;voiture;30;20;sec;0.1;1.44;13.45;collision evitee;eleve
+80;voiture;30;20;sec;0.3;1.44;16.22;collision evitee;eleve
+80;voiture;30;20;sec;0.5;1.44;19.0;collision evitee;eleve
+80;voiture;30;20;mouille;0.1;1.44;20.68;collision;eleve
+80;voiture;30;20;mouille;0.3;1.44;23.46;collision;eleve
+80;voiture;30;20;mouille;0.5;1.44;26.23;collision;eleve
+80;voiture;30;20;verglas;0.1;1.44;49.61;collision;eleve
+80;voiture;30;20;verglas;0.3;1.44;52.39;collision;eleve
+80;voiture;30;20;verglas;0.5;1.44;55.17;collision;eleve
+80;voiture;30;40;sec;0.1;2.88;13.45;collision evitee;modere
+80;voiture;30;40;sec;0.3;2.88;16.22;collision evitee;modere
+80;voiture;30;40;sec;0.5;2.88;19.0;collision evitee;modere
+80;voiture;30;40;mouille;0.1;2.88;20.68;collision evitee;modere
+80;voiture;30;40;mouille;0.3;2.88;23.46;collision evitee;modere
+80;voiture;30;40;mouille;0.5;2.88;26.23;collision evitee;modere
+80;voiture;30;40;verglas;0.1;2.88;49.61;collision;modere
+80;voiture;30;40;verglas;0.3;2.88;52.39;collision;modere
+80;voiture;30;40;verglas;0.5;2.88;55.17;collision;modere
+80;voiture;30;60;sec;0.1;4.32;13.45;collision evitee;modere
+80;voiture;30;60;sec;0.3;4.32;16.22;collision evitee;modere
+80;voiture;30;60;sec;0.5;4.32;19.0;collision evitee;modere
+80;voiture;30;60;mouille;0.1;4.32;20.68;collision evitee;modere
+80;voiture;30;60;mouille;0.3;4.32;23.46;collision evitee;modere
+80;voiture;30;60;mouille;0.5;4.32;26.23;collision evitee;modere
+80;voiture;30;60;verglas;0.1;4.32;49.61;collision evitee;modere
+80;voiture;30;60;verglas;0.3;4.32;52.39;collision evitee;modere
+80;voiture;30;60;verglas;0.5;4.32;55.17;collision evitee;modere
+80;cycliste;0;20;sec;0.1;0.9;33.09;collision;critique
+80;cycliste;0;20;sec;0.3;0.9;37.53;collision;critique
+80;cycliste;0;20;sec;0.5;0.9;41.98;collision;critique
+80;cycliste;0;20;mouille;0.1;0.9;51.6;collision;critique
+80;cycliste;0;20;mouille;0.3;0.9;56.05;collision;critique
+80;cycliste;0;20;mouille;0.5;0.9;60.49;collision;critique
+80;cycliste;0;20;verglas;0.1;0.9;125.68;collision;critique
+80;cycliste;0;20;verglas;0.3;0.9;130.12;collision;critique
+80;cycliste;0;20;verglas;0.5;0.9;134.57;collision;critique
+80;cycliste;0;40;sec;0.1;1.8;33.09;collision evitee;eleve
+80;cycliste;0;40;sec;0.3;1.8;37.53;collision evitee;eleve
+80;cycliste;0;40;sec;0.5;1.8;41.98;collision;eleve
+80;cycliste;0;40;mouille;0.1;1.8;51.6;collision;eleve
+80;cycliste;0;40;mouille;0.3;1.8;56.05;collision;eleve
+80;cycliste;0;40;mouille;0.5;1.8;60.49;collision;eleve
+80;cycliste;0;40;verglas;0.1;1.8;125.68;collision;eleve
+80;cycliste;0;40;verglas;0.3;1.8;130.12;collision;eleve
+80;cycliste;0;40;verglas;0.5;1.8;134.57;collision;eleve
+80;cycliste;0;60;sec;0.1;2.7;33.09;collision evitee;eleve
+80;cycliste;0;60;sec;0.3;2.7;37.53;collision evitee;eleve
+80;cycliste;0;60;sec;0.5;2.7;41.98;collision evitee;eleve
+80;cycliste;0;60;mouille;0.1;2.7;51.6;collision evitee;eleve
+80;cycliste;0;60;mouille;0.3;2.7;56.05;collision evitee;eleve
+80;cycliste;0;60;mouille;0.5;2.7;60.49;collision;eleve
+80;cycliste;0;60;verglas;0.1;2.7;125.68;collision;eleve
+80;cycliste;0;60;verglas;0.3;2.7;130.12;collision;eleve
+80;cycliste;0;60;verglas;0.5;2.7;134.57;collision;eleve
+80;cycliste;10;20;sec;0.1;1.03;25.57;collision;critique
+80;cycliste;10;20;sec;0.3;1.03;29.46;collision;critique
+80;cycliste;10;20;sec;0.5;1.03;33.35;collision;critique
+80;cycliste;10;20;mouille;0.1;1.03;39.75;collision;critique
+80;cycliste;10;20;mouille;0.3;1.03;43.64;collision;critique
+80;cycliste;10;20;mouille;0.5;1.03;47.53;collision;critique
+80;cycliste;10;20;verglas;0.1;1.03;96.47;collision;critique
+80;cycliste;10;20;verglas;0.3;1.03;100.35;collision;critique
+80;cycliste;10;20;verglas;0.5;1.03;104.24;collision;critique
+80;cycliste;10;40;sec;0.1;2.06;25.57;collision evitee;eleve
+80;cycliste;10;40;sec;0.3;2.06;29.46;collision evitee;eleve
+80;cycliste;10;40;sec;0.5;2.06;33.35;collision evitee;eleve
+80;cycliste;10;40;mouille;0.1;2.06;39.75;collision evitee;eleve
+80;cycliste;10;40;mouille;0.3;2.06;43.64;collision;eleve
+80;cycliste;10;40;mouille;0.5;2.06;47.53;collision;eleve
+80;cycliste;10;40;verglas;0.1;2.06;96.47;collision;eleve
+80;cycliste;10;40;verglas;0.3;2.06;100.35;collision;eleve
+80;cycliste;10;40;verglas;0.5;2.06;104.24;collision;eleve
+80;cycliste;10;60;sec;0.1;3.09;25.57;collision evitee;modere
+80;cycliste;10;60;sec;0.3;3.09;29.46;collision evitee;modere
+80;cycliste;10;60;sec;0.5;3.09;33.35;collision evitee;modere
+80;cycliste;10;60;mouille;0.1;3.09;39.75;collision evitee;modere
+80;cycliste;10;60;mouille;0.3;3.09;43.64;collision evitee;modere
+80;cycliste;10;60;mouille;0.5;3.09;47.53;collision evitee;modere
+80;cycliste;10;60;verglas;0.1;3.09;96.47;collision;modere
+80;cycliste;10;60;verglas;0.3;3.09;100.35;collision;modere
+80;cycliste;10;60;verglas;0.5;3.09;104.24;collision;modere
+80;cycliste;30;20;sec;0.1;1.44;13.45;collision evitee;critique
+80;cycliste;30;20;sec;0.3;1.44;16.22;collision evitee;critique
+80;cycliste;30;20;sec;0.5;1.44;19.0;collision evitee;critique
+80;cycliste;30;20;mouille;0.1;1.44;20.68;collision;critique
+80;cycliste;30;20;mouille;0.3;1.44;23.46;collision;critique
+80;cycliste;30;20;mouille;0.5;1.44;26.23;collision;critique
+80;cycliste;30;20;verglas;0.1;1.44;49.61;collision;critique
+80;cycliste;30;20;verglas;0.3;1.44;52.39;collision;critique
+80;cycliste;30;20;verglas;0.5;1.44;55.17;collision;critique
+80;cycliste;30;40;sec;0.1;2.88;13.45;collision evitee;eleve
+80;cycliste;30;40;sec;0.3;2.88;16.22;collision evitee;eleve
+80;cycliste;30;40;sec;0.5;2.88;19.0;collision evitee;eleve
+80;cycliste;30;40;mouille;0.1;2.88;20.68;collision evitee;eleve
+80;cycliste;30;40;mouille;0.3;2.88;23.46;collision evitee;eleve
+80;cycliste;30;40;mouille;0.5;2.88;26.23;collision evitee;eleve
+80;cycliste;30;40;verglas;0.1;2.88;49.61;collision;eleve
+80;cycliste;30;40;verglas;0.3;2.88;52.39;collision;eleve
+80;cycliste;30;40;verglas;0.5;2.88;55.17;collision;eleve
+80;cycliste;30;60;sec;0.1;4.32;13.45;collision evitee;modere
+80;cycliste;30;60;sec;0.3;4.32;16.22;collision evitee;modere
+80;cycliste;30;60;sec;0.5;4.32;19.0;collision evitee;modere
+80;cycliste;30;60;mouille;0.1;4.32;20.68;collision evitee;modere
+80;cycliste;30;60;mouille;0.3;4.32;23.46;collision evitee;modere
+80;cycliste;30;60;mouille;0.5;4.32;26.23;collision evitee;modere
+80;cycliste;30;60;verglas;0.1;4.32;49.61;collision evitee;modere
+80;cycliste;30;60;verglas;0.3;4.32;52.39;collision evitee;modere
+80;cycliste;30;60;verglas;0.5;4.32;55.17;collision evitee;modere
+80;pieton;0;20;sec;0.1;0.9;33.09;collision;critique
+80;pieton;0;20;sec;0.3;0.9;37.53;collision;critique
+80;pieton;0;20;sec;0.5;0.9;41.98;collision;critique
+80;pieton;0;20;mouille;0.1;0.9;51.6;collision;critique
+80;pieton;0;20;mouille;0.3;0.9;56.05;collision;critique
+80;pieton;0;20;mouille;0.5;0.9;60.49;collision;critique
+80;pieton;0;20;verglas;0.1;0.9;125.68;collision;critique
+80;pieton;0;20;verglas;0.3;0.9;130.12;collision;critique
+80;pieton;0;20;verglas;0.5;0.9;134.57;collision;critique
+80;pieton;0;40;sec;0.1;1.8;33.09;collision evitee;eleve
+80;pieton;0;40;sec;0.3;1.8;37.53;collision evitee;eleve
+80;pieton;0;40;sec;0.5;1.8;41.98;collision;eleve
+80;pieton;0;40;mouille;0.1;1.8;51.6;collision;eleve
+80;pieton;0;40;mouille;0.3;1.8;56.05;collision;eleve
+80;pieton;0;40;mouille;0.5;1.8;60.49;collision;eleve
+80;pieton;0;40;verglas;0.1;1.8;125.68;collision;eleve
+80;pieton;0;40;verglas;0.3;1.8;130.12;collision;eleve
+80;pieton;0;40;verglas;0.5;1.8;134.57;collision;eleve
+80;pieton;0;60;sec;0.1;2.7;33.09;collision evitee;eleve
+80;pieton;0;60;sec;0.3;2.7;37.53;collision evitee;eleve
+80;pieton;0;60;sec;0.5;2.7;41.98;collision evitee;eleve
+80;pieton;0;60;mouille;0.1;2.7;51.6;collision evitee;eleve
+80;pieton;0;60;mouille;0.3;2.7;56.05;collision evitee;eleve
+80;pieton;0;60;mouille;0.5;2.7;60.49;collision;eleve
+80;pieton;0;60;verglas;0.1;2.7;125.68;collision;eleve
+80;pieton;0;60;verglas;0.3;2.7;130.12;collision;eleve
+80;pieton;0;60;verglas;0.5;2.7;134.57;collision;eleve
+80;pieton;10;20;sec;0.1;1.03;25.57;collision;critique
+80;pieton;10;20;sec;0.3;1.03;29.46;collision;critique
+80;pieton;10;20;sec;0.5;1.03;33.35;collision;critique
+80;pieton;10;20;mouille;0.1;1.03;39.75;collision;critique
+80;pieton;10;20;mouille;0.3;1.03;43.64;collision;critique
+80;pieton;10;20;mouille;0.5;1.03;47.53;collision;critique
+80;pieton;10;20;verglas;0.1;1.03;96.47;collision;critique
+80;pieton;10;20;verglas;0.3;1.03;100.35;collision;critique
+80;pieton;10;20;verglas;0.5;1.03;104.24;collision;critique
+80;pieton;10;40;sec;0.1;2.06;25.57;collision evitee;eleve
+80;pieton;10;40;sec;0.3;2.06;29.46;collision evitee;eleve
+80;pieton;10;40;sec;0.5;2.06;33.35;collision evitee;eleve
+80;pieton;10;40;mouille;0.1;2.06;39.75;collision evitee;eleve
+80;pieton;10;40;mouille;0.3;2.06;43.64;collision;eleve
+80;pieton;10;40;mouille;0.5;2.06;47.53;collision;eleve
+80;pieton;10;40;verglas;0.1;2.06;96.47;collision;eleve
+80;pieton;10;40;verglas;0.3;2.06;100.35;collision;eleve
+80;pieton;10;40;verglas;0.5;2.06;104.24;collision;eleve
+80;pieton;10;60;sec;0.1;3.09;25.57;collision evitee;modere
+80;pieton;10;60;sec;0.3;3.09;29.46;collision evitee;modere
+80;pieton;10;60;sec;0.5;3.09;33.35;collision evitee;modere
+80;pieton;10;60;mouille;0.1;3.09;39.75;collision evitee;modere
+80;pieton;10;60;mouille;0.3;3.09;43.64;collision evitee;modere
+80;pieton;10;60;mouille;0.5;3.09;47.53;collision evitee;modere
+80;pieton;10;60;verglas;0.1;3.09;96.47;collision;modere
+80;pieton;10;60;verglas;0.3;3.09;100.35;collision;modere
+80;pieton;10;60;verglas;0.5;3.09;104.24;collision;modere
